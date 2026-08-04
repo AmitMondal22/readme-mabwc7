@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AmitMondal22.github.io/readme-mabwc7/sitemap.xml
